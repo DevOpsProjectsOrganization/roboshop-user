@@ -10,5 +10,7 @@ jobs:
     with :
       app_type : nodejs
       app_name : user
+      app_env : dev
+      enabled : false
 
   
